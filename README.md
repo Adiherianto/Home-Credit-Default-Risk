@@ -1,2 +1,2 @@
 Home-Credit-Default-Risk
-## Untuk memastikan populasi yang kurang terlayani ini memiliki pengalaman pinjaman yang positif, Home Credit memanfaatkan berbagai data alternatif - termasuk informasi telekomunikasi dan transaksional - untuk memprediksi kemampuan pembayaran klien mereka.
+## In order to make sure this underserved population has a positive loan experience, Home Credit makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
